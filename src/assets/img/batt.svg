@@ -1,0 +1,298 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="375" height="288" viewBox="0 0 375 288">
+    <defs>
+        <path id="b" d="M20.889 0H59.185a3.48 3.48 0 1 1 0 6.96H3.48a3.48 3.48 0 1 1 0-6.96H20.89zM3.48.87a2.61 2.61 0 0 0 0 5.22h16.537V.87H3.481zm55.704 0H42.648v5.22h16.537a2.61 2.61 0 0 0 0-5.22zM21.76.87v5.22h19.148V.87H21.759z"/>
+        <filter id="a" width="106.4%" height="157.5%" x="-3.2%" y="-14.4%" filterUnits="objectBoundingBox">
+            <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.5 0"/>
+        </filter>
+        <linearGradient id="c" x1="100%" x2="0%" y1="0%" y2="100%">
+            <stop offset="0%" stop-color="#3E3936"/>
+            <stop offset="100%" stop-color="#1C1C18"/>
+        </linearGradient>
+        <linearGradient id="d" x1="50%" x2="50%" y1="0%" y2="100%">
+            <stop offset="0%" stop-color="#655F69"/>
+            <stop offset="100%" stop-color="#7D7C84"/>
+        </linearGradient>
+        <path id="e" d="M14.055 228.834h348.143v6.961H14.055z"/>
+        <linearGradient id="f" x1="50%" x2="50%" y1="0%" y2="100%">
+            <stop offset="0%" stop-color="#3C3834"/>
+            <stop offset="100%" stop-color="#1C1C18"/>
+        </linearGradient>
+        <filter id="g" width="106.3%" height="157.1%" x="-3.2%" y="-14.3%" filterUnits="objectBoundingBox">
+            <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+            <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"/>
+                <feMergeNode in="SourceGraphic"/>
+            </feMerge>
+        </filter>
+        <path id="i" d="M20.889 0H59.185a3.48 3.48 0 1 1 0 6.96H3.48a3.48 3.48 0 1 1 0-6.96H20.89zM3.48.87a2.61 2.61 0 0 0 0 5.22h16.537V.87H3.481zm55.704 0H42.648v5.22h16.537a2.61 2.61 0 0 0 0-5.22zM21.76.87v5.22h19.148V.87H21.759z"/>
+        <filter id="h" width="106.4%" height="157.5%" x="-3.2%" y="-14.4%" filterUnits="objectBoundingBox">
+            <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.5 0"/>
+        </filter>
+        <path id="k" d="M20.889 0H59.185a3.48 3.48 0 1 1 0 6.96H3.48a3.48 3.48 0 1 1 0-6.96H20.89zM3.48.87a2.61 2.61 0 0 0 0 5.22h16.537V.87H3.481zm55.704 0H42.648v5.22h16.537a2.61 2.61 0 0 0 0-5.22zM21.76.87v5.22h19.148V.87H21.759z"/>
+        <filter id="j" width="106.4%" height="157.5%" x="-3.2%" y="-14.4%" filterUnits="objectBoundingBox">
+            <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.5 0"/>
+        </filter>
+        <path id="m" d="M20.889 0h13.926a3.48 3.48 0 0 1 0 6.96H3.48a3.48 3.48 0 1 1 0-6.96H20.89zm-3.482.87H3.481a2.61 2.61 0 0 0 0 5.22h13.926V.87zm17.408 0H18.278v5.22h16.537a2.61 2.61 0 1 0 0-5.22z"/>
+        <filter id="l" width="110.4%" height="157.5%" x="-5.2%" y="-14.4%" filterUnits="objectBoundingBox">
+            <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.5 0"/>
+        </filter>
+        <linearGradient id="n" x1="0%" y1="0%" y2="100%">
+            <stop offset="0%" stop-color="#504C49"/>
+            <stop offset="100%" stop-color="#1C1C18"/>
+        </linearGradient>
+        <linearGradient id="o" x1="100%" x2="0%" y1="0%" y2="100%">
+            <stop offset="0%" stop-color="#5F5B58"/>
+            <stop offset="100%" stop-color="#1C1C18"/>
+        </linearGradient>
+        <linearGradient id="p" x1="0%" x2="50%" y1="50%" y2="50%">
+            <stop offset="0%" stop-color="#646065"/>
+            <stop offset="100%" stop-color="#ECECEC" stop-opacity=".75"/>
+        </linearGradient>
+        <rect id="r" width="361.198" height="18.272" x="7.528" y="35.239" rx="1.741"/>
+        <filter id="q" width="101.1%" height="121.9%" x="-.6%" y="-5.5%" filterUnits="objectBoundingBox">
+            <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+        </filter>
+        <linearGradient id="s" x1="50%" x2="50%" y1="0%" y2="100%">
+            <stop offset="0%" stop-color="#EF5F01"/>
+            <stop offset="100%" stop-color="#853501"/>
+        </linearGradient>
+        <path id="t" d="M0 0h17.975v11.349H0z"/>
+        <path id="u" d="M2.451.622h1v1h-1z"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <g transform="translate(-1)">
+            <g transform="translate(26.676 65.692)">
+                <rect width="62.666" height="6.961" fill="#B9C5CA" rx="3.48"/>
+                <use fill="#000" filter="url(#a)" xlink:href="#b"/>
+                <use fill="#7D7880" xlink:href="#b"/>
+                <path stroke="#A7B2B6" stroke-width="1.741" d="M59.185.87H3.48a2.61 2.61 0 1 0 0 5.22h55.705a2.61 2.61 0 1 0 0-5.22zM3.481 0h17.408V6.96H3.48A3.48 3.48 0 0 1 3.48 0zm55.704 0a3.48 3.48 0 0 1 0 6.961H41.777V0h17.408zM20.89 0h20.888V6.96H20.89V0z"/>
+            </g>
+            <rect width="348.143" height="243.625" x="14.055" y="44.375" fill="url(#c)" rx=".87"/>
+            <g opacity=".25" style="mix-blend-mode:overlay">
+                <use fill="url(#d)" xlink:href="#e"/>
+                <path stroke="#979797" stroke-width=".731" d="M14.421 229.199h347.412v6.23H14.421z"/>
+            </g>
+            <path fill="url(#f)" d="M48.87 269.728h278.514l1.74 18.272H47.13z"/>
+            <path fill="#63615F" d="M104.573 261.897a7.832 7.832 0 0 0 7.833 7.831 7.832 7.832 0 0 0 7.833-7.83h33.944a7.832 7.832 0 0 0 7.833 7.83 7.832 7.832 0 0 0 7.833-7.83h10.445a7.832 7.832 0 0 0 7.833 7.83 7.832 7.832 0 0 0 7.833-7.83h10.444a7.832 7.832 0 0 0 7.834 7.83 7.832 7.832 0 0 0 7.833-7.83h33.944a7.832 7.832 0 0 0 7.833 7.83 7.832 7.832 0 0 0 7.833-7.83h51.656a.87.87 0 0 1 .795.516l3.252 7.314H48.87l3.251-7.314a.87.87 0 0 1 .796-.517h51.656z" opacity=".5"/>
+            <path fill="url(#f)" d="M0 7.83h9.574l3.481 18.273H0z" transform="matrix(-1 0 0 1 14.055 261.897)"/>
+            <path fill="#63615F" d="M14.055 261.897H9.704l-5.223 7.831h9.574z" opacity=".5"/>
+            <path fill="url(#f)" d="M0 7.83h9.574l3.481 18.273H0z" transform="translate(362.198 261.897)"/>
+            <path fill="#63615F" d="M362.198 261.897h4.352l5.222 7.831h-9.574z" opacity=".5"/>
+            <g filter="url(#g)" transform="translate(287.348 65.692)">
+                <rect width="62.666" height="6.961" fill="#1F2020" rx="3.48"/>
+                <path fill="#3B3734" d="M20.889 0H59.185a3.48 3.48 0 1 1 0 6.96H3.48a3.48 3.48 0 1 1 0-6.96H20.89zM3.48.87a2.61 2.61 0 0 0 0 5.22h16.537V.87H3.481zm55.704 0H42.648v5.22h16.537a2.61 2.61 0 0 0 0-5.22zM21.76.87v5.22h19.148V.87H21.759z"/>
+            </g>
+            <g transform="translate(102.832 65.692)">
+                <rect width="62.666" height="6.961" fill="#1F2020" rx="3.48"/>
+                <use fill="#000" filter="url(#h)" xlink:href="#i"/>
+                <use fill="#7D7880" xlink:href="#i"/>
+                <path stroke="#3B3734" stroke-width="1.741" d="M59.185.87H3.48a2.61 2.61 0 1 0 0 5.22h55.705a2.61 2.61 0 1 0 0-5.22zM3.481 0h17.408V6.96H3.48A3.48 3.48 0 0 1 3.48 0zm55.704 0a3.48 3.48 0 0 1 0 6.961H41.777V0h17.408zM20.89 0h20.888V6.96H20.89V0z"/>
+            </g>
+            <g transform="translate(29.722 65.692)">
+                <rect width="62.666" height="6.961" fill="#1F2020" rx="3.48"/>
+                <use fill="#000" filter="url(#j)" xlink:href="#k"/>
+                <use fill="#7D7880" xlink:href="#k"/>
+                <path stroke="#3B3734" stroke-width="1.741" d="M59.185.87H3.48a2.61 2.61 0 1 0 0 5.22h55.705a2.61 2.61 0 1 0 0-5.22zM3.481 0h17.408V6.96H3.48A3.48 3.48 0 0 1 3.48 0zm55.704 0a3.48 3.48 0 0 1 0 6.961H41.777V0h17.408zM20.89 0h20.888V6.96H20.89V0z"/>
+            </g>
+            <g transform="translate(236.867 65.692)">
+                <rect width="38.296" height="6.961" fill="#1F2020" rx="3.48"/>
+                <use fill="#000" filter="url(#l)" xlink:href="#m"/>
+                <use fill="#7D7880" xlink:href="#m"/>
+                <path stroke="#3B3734" stroke-width="1.741" d="M34.815.87H3.48a2.61 2.61 0 1 0 0 5.22h31.335a2.61 2.61 0 0 0 0-5.22zM3.481 0h14.797V6.96H3.48A3.48 3.48 0 0 1 3.48 0zm31.334 0a3.48 3.48 0 1 1 0 6.961H17.407V0h17.408z"/>
+            </g>
+            <path fill="url(#n)" d="M32.333 4.35h87.036v30.888H32.333z"/>
+            <path fill="url(#o)" d="M344.356 4.35H257.32V35.24h87.036z"/>
+            <path fill="#FF0606" d="M28.199 0h91.388v4.35H28.199z"/>
+            <path fill="url(#c)" d="M116.975 4.35h142.303v30.888H116.975z"/>
+            <path fill="#FF0606" d="M255.144 0h91.388v4.35h-91.388z"/>
+            <g>
+                <path fill="url(#p)" d="M3.917 0h34.814v4.35H3.917z" transform="translate(54.092 29.148)"/>
+                <path fill="#332D35" d="M54.092 33.498H97.61v1.74H54.092z"/>
+                <path fill="url(#p)" d="M8.268 0h26.111v21.1H8.268z" transform="translate(54.092 8.048)"/>
+            </g>
+            <g>
+                <path fill="url(#p)" d="M3.917 0h34.814v4.35H3.917z" transform="translate(279.08 29.148)"/>
+                <path fill="#332D35" d="M279.08 33.498h43.517v1.74H279.08z"/>
+                <path fill="url(#p)" d="M8.268 0h26.111v21.1H8.268z" transform="translate(279.08 8.048)"/>
+            </g>
+            <g>
+                <use fill="#000" filter="url(#q)" xlink:href="#r"/>
+                <use fill="url(#c)" xlink:href="#r"/>
+            </g>
+        </g>
+        <path fill="#1C1C18" d="M196.988 96.637l-2.679.076 21.58 36.516h-24.72v40.619l55.91 37.149h1.447l3.693-.09-21.565-37.06h26.258v-40.875l-57.46-36.335h-2.464z" opacity=".5"/>
+        <path fill="#1C1C18" d="M204.442 89.184l-2.679.076 21.58 36.515h-24.72v40.62l55.91 37.149h1.447l3.693-.091-21.565-37.059h26.259v-40.876l-57.46-36.334h-2.465z" opacity=".25"/>
+        <path fill="url(#s)" d="M60.13 0l2.679.076-21.58 36.515h24.72v40.62L10.04 114.36H8.593l-3.693-.091L26.464 77.21H.205V36.334L57.665 0h2.465z" transform="matrix(-1 0 0 1 260.937 92.91)"/>
+        <path fill="#FFF" stroke="#E8E8E8" stroke-width="2.924" d="M209.228 133.136h11.462l12.503 33.524H221.46l-1.676-4.925H209.59l-1.586 4.925H196.59l12.64-33.524zm8.364 15.103l-5.52-3.774 2.052 3.699-2.195.075v3.549l5.45 3.774-2.052-3.699h2.265v-3.624zm-27.03.996c.756.19 1.496.497 2.221.923a8.038 8.038 0 0 1 1.948 1.61 7.413 7.413 0 0 1 1.36 2.25c.332.852.498 1.799.498 2.84 0 1.831-.355 3.37-1.065 4.617a8.823 8.823 0 0 1-2.809 3.03c-1.163.774-2.492 1.326-3.987 1.658a21.188 21.188 0 0 1-4.6.497h-14.544v-33.524h13.185c1.3 0 2.681.103 4.146.308a13.14 13.14 0 0 1 4.056 1.231c1.238.616 2.265 1.515 3.08 2.699.816 1.184 1.224 2.738 1.224 4.664 0 1.8-.43 3.283-1.291 4.45-.861 1.169-2.001 2.037-3.421 2.605v.142zm-4.61-7.2h-4.248v2.64h4.248v-2.64zm-4.248-2.75l1.593 2.75h2.548l-4.141-2.75zm4.141 8.139l-1.593-2.75h-2.548l4.141 2.75zm.572 5.969h-5.664v3.599h5.664v-3.6zm-5.522-3.75l2.124 3.75h3.398l-5.522-3.75zm5.522 11.098l-2.124-3.75h-3.398l5.522 3.75zm61.416 5.919h-11.06V142.58h-8.087v-9.545h27.234v9.545h-8.087v24.079zm30.619 0H267.39V142.58h-8.087v-9.545h27.234v9.545h-8.086v24.079z"/>
+        <path fill="#0C0C0C" d="M209.228 133.136h11.462l12.503 33.524H221.46l-1.676-4.925H209.59l-1.586 4.925H196.59l12.64-33.524zm8.364 15.103l-5.52-3.774 2.052 3.699-2.195.075v3.549l5.45 3.774-2.052-3.699h2.265v-3.624zm-27.03.996c.756.19 1.496.497 2.221.923a8.038 8.038 0 0 1 1.948 1.61 7.413 7.413 0 0 1 1.36 2.25c.332.852.498 1.799.498 2.84 0 1.831-.355 3.37-1.065 4.617a8.823 8.823 0 0 1-2.809 3.03c-1.163.774-2.492 1.326-3.987 1.658a21.188 21.188 0 0 1-4.6.497h-14.544v-33.524h13.185c1.3 0 2.681.103 4.146.308a13.14 13.14 0 0 1 4.056 1.231c1.238.616 2.265 1.515 3.08 2.699.816 1.184 1.224 2.738 1.224 4.664 0 1.8-.43 3.283-1.291 4.45-.861 1.169-2.001 2.037-3.421 2.605v.142zm-4.61-7.2h-4.248v2.64h4.248v-2.64zm-4.248-2.75l1.593 2.75h2.548l-4.141-2.75zm4.141 8.139l-1.593-2.75h-2.548l4.141 2.75zm.572 5.969h-5.664v3.599h5.664v-3.6zm-5.522-3.75l2.124 3.75h3.398l-5.522-3.75zm5.522 11.098l-2.124-3.75h-3.398l5.522 3.75zm61.416 5.919h-11.06V142.58h-8.087v-9.545h27.234v9.545h-8.087v24.079zm30.619 0H267.39V142.58h-8.087v-9.545h27.234v9.545h-8.086v24.079z"/>
+        <path fill="#1C1C18" d="M80.086 133.285h33.36v33.455h-33.36v-33.455zm1.334 1.338v30.779h30.691v-30.779H81.42z"/>
+        <text font-family="Avenir-Black, Avenir" font-size="13.536" font-weight="700" letter-spacing=".376" transform="translate(80.086 133.285)">
+            <tspan x="4.263" y="14.167" fill="#F4B000">480</tspan> <tspan x="29.431" y="14.167" fill="#000" font-size="14.738" letter-spacing=".409"> </tspan>
+        </text>
+        <text fill="#E0E0CD" font-family="Avenir-Heavy, Avenir" font-size="3.384" font-weight="600" letter-spacing=".094" transform="translate(80.086 133.285)">
+            <tspan x="11.46" y="25.309">A (EN)</tspan>
+        </text>
+        <path fill="#1C1C18" d="M112.135 133.285h33.36v33.455h-33.36v-33.455zm1.334 1.338v30.779h30.691v-30.779h-30.69z"/>
+        <text fill="#F4B000" font-family="Avenir-Black, Avenir" font-size="13.536" font-weight="700" letter-spacing=".376" transform="translate(112.135 133.285)">
+            <tspan x="4.012" y="14.167">100</tspan> <tspan x="29.18" y="14.167" font-size="14.738" letter-spacing=".409"> </tspan>
+        </text>
+        <text fill="#E0E0CD" font-family="Avenir-Heavy, Avenir" font-size="3.384" font-weight="600" letter-spacing=".094" transform="translate(112.135 133.285)">
+            <tspan x="13.322" y="25.309">MIN</tspan>
+        </text>
+        <g>
+            <path fill="#1C1C18" d="M47.87 133.285h33.36v33.455H47.87v-33.455zm1.334 1.338v30.779h30.691v-30.779h-30.69z"/>
+            <text fill="#F4B000" font-family="Avenir-Black, Avenir" font-size="13.536" font-weight="700" letter-spacing=".376" transform="translate(47.87 133.285)">
+                <tspan x="8.458" y="14.543">60 </tspan>
+            </text>
+            <text fill="#E0E0CD" font-family="Avenir-Heavy, Avenir" font-size="3.384" font-weight="600" letter-spacing=".094" transform="translate(47.87 133.285)">
+                <tspan x="8.716" y="25.309">A/HOURS</tspan>
+            </text>
+        </g>
+        <g>
+            <path fill="#C81328" d="M47.87 95.275h13.708v13.704H47.87z"/>
+            <path fill="#262421" d="M54.833 105.716a3.48 3.48 0 1 1-.002-6.962 3.48 3.48 0 0 1 .002 6.962zm0-.87a2.61 2.61 0 1 0 0-5.221 2.61 2.61 0 0 0 0 5.22z"/>
+            <text fill="#C81328" font-family="Avenir-Black, Avenir" font-size="3.046" font-weight="700" letter-spacing=".085" transform="translate(47.87 95.275)">
+                <tspan x=".509" y="16.921">LAYOUT</tspan>
+            </text>
+        </g>
+        <g>
+            <path fill="#C81328" d="M66.875 95.275h13.708v13.704H66.875z"/>
+            <text fill="#C81328" font-family="Avenir-Heavy, Avenir" font-size="3.046" font-weight="600" letter-spacing=".085" transform="translate(66.875 95.275)">
+                <tspan x="5.796" y="16.921">V</tspan>
+            </text>
+            <text fill="#272622" font-family="Avenir-Heavy, Avenir" font-size="7.833" font-weight="600" letter-spacing="-.87" transform="translate(66.875 95.275)">
+                <tspan x="0" y="11.48">1</tspan> <tspan x="3.767" y="11.48">2</tspan>
+            </text>
+        </g>
+        <g>
+            <path stroke="#1C1C18" stroke-width=".946" d="M48.343 198.083h33.11v10.403h-33.11z"/>
+            <g fill="#FFF">
+                <text font-family="Avenir-Light, Avenir" font-size="1.051" font-weight="300" letter-spacing=".029" transform="translate(68.683 201.157)">
+                    <tspan x="5.173" y="1">Specialy for</tspan>
+                </text>
+                <path d="M72.37 202.584h1.067l1.163 3.046h-1.092l-.156-.447h-.948l-.147.447h-1.062l1.175-3.046zm.778 1.372l-.513-.343.19.337-.203.006v.323l.507.343-.191-.336h.21v-.33zm-2.514.09a.793.793 0 0 1 .388.231.67.67 0 0 1 .173.462.82.82 0 0 1-.1.42.81.81 0 0 1-.26.275c-.109.07-.232.12-.372.15-.139.03-.281.046-.427.046h-1.353v-3.046h1.226c.121 0 .25.01.386.028.136.019.262.056.377.112.115.056.21.138.287.245a.72.72 0 0 1 .113.424c0 .163-.04.298-.12.404a.715.715 0 0 1-.318.237v.013zm-.429-.653h-.395v.24h.395v-.24zm-.395-.25l.148.25h.237l-.385-.25zm.385.74l-.148-.25h-.237l.385.25zm.053.542h-.526v.327h.526v-.327zm-.513-.341l.197.34h.316l-.513-.34zm.513 1.008l-.197-.34h-.316l.513.34zm5.714.538h-1.03v-2.188h-.752v-.867h2.534v.867h-.752v2.188zm2.848 0h-1.03v-2.188h-.751v-.867h2.533v.867h-.752v2.188z"/>
+                <text font-family="Avenir-Light, Avenir" font-size="1.419" font-weight="300" letter-spacing=".039" transform="translate(49.998 201.157)">
+                    <tspan x="0" y="1.236">Manufactured by WESTA</tspan> <tspan x="0" y="2.655">International Scientific </tspan> <tspan x="0" y="4.075">Industrial Corporation</tspan>
+                </text>
+            </g>
+            <path stroke="#1C1C18" stroke-width=".946" d="M146.809 198.083h31.219v10.403h-31.22z"/>
+            <g fill="#FFF" font-family="Avenir-Black, Avenir" font-size="5.676" font-weight="700" letter-spacing=".158">
+                <text transform="translate(150.356 199.265)">
+                    <tspan x="8.987" y="6"> / </tspan>
+                </text>
+                <text transform="translate(150.356 199.265)">
+                    <tspan x="0" y="6">Ca</tspan>
+                </text>
+                <text transform="translate(150.356 199.265)">
+                    <tspan x="17.029" y="6">Ca</tspan>
+                </text>
+            </g>
+            <path stroke="#1C1C18" stroke-width=".946" d="M81.967 198.083h47.302v10.403H81.967z"/>
+            <g transform="translate(128.276 197.61)">
+                <use fill="#1C1C18" xlink:href="#t"/>
+                <path stroke="#1C1C18" stroke-width=".946" d="M.473.473h17.029v10.403H.473z"/>
+            </g>
+            <g>
+                <g stroke="#FFF" stroke-width=".731">
+                    <path d="M140.903 202.886a.06.06 0 0 0 .03.112l.626-.003c.04 0 .077-.022.097-.057l.315-.539a.06.06 0 0 0-.082-.082l-.443-.673a.114.114 0 0 0-.186-.007l-.566.746a.114.114 0 0 0-.008.126l.217.377z"/>
+                    <path d="M140.536 201.859l.076-.094a.252.252 0 0 1-.197.093h.12zm.2.001l.514.004a.252.252 0 0 1-.196-.408l-.319.404zm-.48.608l-.135.171a.252.252 0 0 1 .324-.061l-.189-.11zm-.147-.086l-.255-.148c.12.07.16.224.09.344-.01.017-.01.017-.022.033l.187-.23z"/>
+                    <g>
+                        <path d="M141.433 203.975a.06.06 0 0 0-.11-.036l-.338.526a.114.114 0 0 0-.006.112l.28.558a.06.06 0 0 0 .115-.024l.806-.005a.114.114 0 0 0 .106-.152l-.317-.882a.114.114 0 0 0-.101-.075l-.435-.022z"/>
+                        <path d="M142.495 204.226l.037.115a.252.252 0 0 1 .03-.216l-.067.1zm-.11.166l-.283.43a.252.252 0 0 1 .449.058l-.166-.488zm-.249-.733l-.07-.207a.252.252 0 0 1-.125.306l.195-.099zm.152-.076l.264-.134a.252.252 0 0 1-.339-.11l-.015-.037.09.28z"/>
+                        <g>
+                            <path d="M140.269 203.892l.106.04c.058.023.073.001.033-.047l-.434-.533a.221.221 0 0 0-.185-.07l-.679.105c-.062.01-.066.035-.007.058l.106.04-.26.816c-.018.06.017.106.08.104l.942-.03a.186.186 0 0 0 .155-.11l.143-.373z"/>
+                            <path d="M139.703 204.827h-.063c.05 0 .072.011.102.049l-.039-.049zm-.125-.157l-.391-.493c.15.188.003.498-.238.502l.63-.01zm.773-.012l.205-.003a.23.23 0 0 1-.236-.2l.03.203zm.026.17l.047.308a.27.27 0 0 1 .266-.307h-.313z"/>
+                        </g>
+                        <path d="M140.854 204.457l-.91-1.362h1.82z"/>
+                    </g>
+                </g>
+                <text fill="#FFF" font-family="Avenir-Black, Avenir" font-size=".946" font-weight="700" letter-spacing=".026" transform="translate(137.256 199.834)">
+                    <tspan x="2.892" y="6.511">Pb</tspan>
+                </text>
+                <g>
+                    <g transform="translate(133.096 201.8)">
+                        <g transform="translate(0 .747)">
+                            <use fill="#D8D8D8" xlink:href="#u"/>
+                            <path stroke="#FFF" stroke-width=".731" d="M2.817.988h1v1h-1z"/>
+                        </g>
+                        <path fill="#FFF" d="M.258 4.107h1v1h-1z"/>
+                        <path stroke="#FFF" stroke-width=".731" d="M1.599 3.371l.736-2.259H.365v2.754h.513a.882.882 0 0 1 .72-.495z"/>
+                        <rect width="1" height="1" x="1.032" y="1.369" fill="#FFF" rx=".124"/>
+                        <path stroke="#FFF" stroke-width=".731" d="M2.71.747C2.71.334 2.131 0 1.42 0 .706 0 .128.334.128.747h2.58z"/>
+                        <ellipse cx="1.677" cy="4.231" stroke="#FFF" stroke-width=".731" rx="1" ry="1"/>
+                    </g>
+                    <path fill="#FFF" d="M134.678 203.771l1.92-1.918.175.176-1.919 1.918 1.92 1.92-.177.175-1.919-1.919-1.919 1.92-.176-.177 1.92-1.919-1.92-1.918.176-.176 1.92 1.918z"/>
+                </g>
+            </g>
+            <g>
+                <text fill="#D8D8D8" font-family="Avenir-Heavy, Avenir" font-size="1.72" font-weight="600" letter-spacing="-.054" transform="translate(86.697 201.563)">
+                    <tspan x="6.569" y="2.86">959:2006,</tspan>
+                </text>
+                <path stroke="#D8D8D8" stroke-width=".731" d="M90.135 204.818v.346a2.063 2.063 0 1 1 0-3.076v.347a1.375 1.375 0 1 0 0 2.383z"/>
+                <path fill="#D8D8D8" d="M89.927 203.268h.41a.95.95 0 0 1 .169.015c.054.01.102.027.143.05a.273.273 0 0 1 .1.093.267.267 0 0 1 .036.145c0 .066-.013.12-.04.16a.265.265 0 0 1-.106.093.496.496 0 0 1-.155.046c-.06.007-.121.011-.185.011h-.155v.433h-.217v-1.046zm-.651.014h.344v.172h-.344v.86h-.172v-.86h-.344v-.172h.344v-.344h.172v.344zm.999.44h-.131v-.294h.155c.028 0 .058.001.09.004.03.003.058.01.083.02.026.01.046.025.062.045.016.019.024.045.024.077a.12.12 0 0 1-.026.083.163.163 0 0 1-.07.044.337.337 0 0 1-.091.018 1.63 1.63 0 0 1-.096.003z"/>
+                <g>
+                    <text fill="#D8D8D8" font-family="Avenir-Heavy, Avenir" font-size="1.72" font-weight="600" letter-spacing="-.054" transform="translate(110.348 200.617)">
+                        <tspan x="6.605" y="3.72">EN 50342</tspan>
+                    </text>
+                    <path stroke="#D8D8D8" stroke-width=".731" d="M112.452 202.451v.877l.566-.877h1.132l-1.698 1.834-1.7-1.834h1.7z"/>
+                    <path stroke="#D8D8D8" stroke-width=".731" d="M113.018 202.451l-.566.877v-2.174a.08.08 0 0 1 .158-.024l.408 1.321z"/>
+                    <path fill="#D8D8D8" d="M112.452 204.285v-.957l-1.7-.877zM114.138 202.445h-1.116l-.558.89z"/>
+                    <path fill="#D8D8D8" d="M111.885 202.451l.567.917v-2.751z"/>
+                    <g>
+                        <g transform="translate(110.348 200.617)">
+                            <path stroke="#D8D8D8" stroke-width=".731" d="M.365 4.512H3.76v1H.365z"/>
+                            <text fill="#D8D8D8" font-family="Avenir-Heavy, Avenir" font-size=".809" font-weight="600" letter-spacing="-.025">
+                                <tspan x="1.385" y="5.306">08</tspan> <tspan x="2.293" y="5.306" letter-spacing="-.032">5</tspan>
+                            </text>
+                            <ellipse cx="2.053" cy="1.834" stroke="#D8D8D8" stroke-width=".731" rx="1.891" ry="1.834"/>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g>
+            <text font-family="Avenir-Black, Avenir" font-size="6.528" font-weight="700" letter-spacing=".136" transform="translate(85.88 95.275)">
+                <tspan x="0" y="7" fill="#9B9B9B">HEAVY DUTY </tspan>  <tspan x="0" y="13.528" fill="#FFF" letter-spacing=".127">STARTING BATTERY</tspan>
+            </text>
+            <text fill="#9B9B9B" font-family="Avenir-Light, Avenir" font-size="2.611" font-weight="300" letter-spacing=".054" transform="translate(85.88 95.275)">
+                <tspan x="0" y="16.704">TEMPERATURE RANGE - 40 ˚C / +60 ˚C</tspan>
+            </text>
+        </g>
+        <g>
+            <path fill="#F8E71C" d="M317.483 100.598a.817.817 0 0 1-.823-.813c0-.448.369-.812.823-.812.454 0 .822.364.822.812a.817.817 0 0 1-.822.813zm0 16.25a.817.817 0 0 1-.823-.812c0-.449.369-.813.823-.813.454 0 .822.364.822.813a.817.817 0 0 1-.822.813zm3.68-15.27a.817.817 0 0 1-.305-1.115.817.817 0 0 1 1.118-.293c.393.227.53.726.306 1.115a.817.817 0 0 1-1.118.293zm-8.174 14.073a.817.817 0 0 1-.306-1.115.817.817 0 0 1 1.119-.292c.393.227.53.726.305 1.114a.817.817 0 0 1-1.118.293zm10.91-11.397a.817.817 0 0 1 .292-1.118.817.817 0 0 1 1.115.306.817.817 0 0 1-.293 1.118.817.817 0 0 1-1.114-.306zm.992 3.657c0-.454.364-.822.813-.822.449 0 .812.368.812.822a.817.817 0 0 1-.812.822.817.817 0 0 1-.813-.822zm-.992 3.656a.817.817 0 0 1 1.114-.306c.39.225.52.725.293 1.119a.817.817 0 0 1-1.115.305.817.817 0 0 1-.292-1.118zm-2.735 2.677a.817.817 0 0 1 1.118.292.817.817 0 0 1-.306 1.115.817.817 0 0 1-1.118-.293.817.817 0 0 1 .306-1.114zm-8.175-14.074a.817.817 0 0 1 1.118.293.817.817 0 0 1-.305 1.115.817.817 0 0 1-1.119-.293.817.817 0 0 1 .306-1.115z"/>
+            <g fill="#143CC8">
+                <path d="M295.31 104.004h.205l.324.766h.006l.32-.766h.206v1.012h-.138v-.832h-.003l-.343.832h-.093l-.343-.832h-.003v.832h-.138v-1.012zm1.673 0h.125l.436 1.012h-.161l-.103-.25h-.484l-.101.25h-.161l.449-1.012zm.247.642l-.19-.465h-.003l-.193.465h.386zm.463-.642h.355c.072 0 .135.008.19.024a.505.505 0 0 1 .14.065c.04.027.073.059.1.094a.5.5 0 0 1 .095.22.506.506 0 0 1-.132.453.525.525 0 0 1-.175.113.63.63 0 0 1-.24.043h-.333v-1.012zm.138.884h.174a.574.574 0 0 0 .166-.024.403.403 0 0 0 .138-.07.34.34 0 0 0 .093-.119.373.373 0 0 0 .035-.165.49.49 0 0 0-.016-.114.34.34 0 0 0-.181-.223.433.433 0 0 0-.202-.04h-.207v.755zm.991-.884h.658v.128h-.52v.302h.484v.129h-.484v.325h.545v.128h-.683v-1.012zm1.359 0h.64v.128h-.502v.318h.468v.129h-.468v.437h-.138v-1.012zm1.333 1.038a.552.552 0 0 1-.214-.04.5.5 0 0 1-.277-.282.552.552 0 0 1-.04-.21.552.552 0 0 1 .15-.379.5.5 0 0 1 .167-.112.552.552 0 0 1 .214-.041c.078 0 .15.014.215.04a.5.5 0 0 1 .277.282c.026.065.04.135.04.21a.552.552 0 0 1-.15.379.5.5 0 0 1-.167.112.552.552 0 0 1-.215.041zm0-.129a.377.377 0 0 0 .28-.118.381.381 0 0 0 .077-.128.446.446 0 0 0-.078-.442.375.375 0 0 0-.279-.118.377.377 0 0 0-.279.118.381.381 0 0 0-.077.128.446.446 0 0 0 .077.442.375.375 0 0 0 .28.118zm.77-.91h.358c.065 0 .119.01.161.027.042.018.076.04.1.067a.229.229 0 0 1 .051.092c.01.034.015.066.015.098a.26.26 0 0 1-.067.175.283.283 0 0 1-.184.092l.29.462h-.173l-.26-.446h-.153v.446h-.138v-1.012zm.138.447h.181a.497.497 0 0 0 .08-.007.215.215 0 0 0 .07-.023.13.13 0 0 0 .05-.05.165.165 0 0 0 .019-.083.165.165 0 0 0-.019-.084.13.13 0 0 0-.05-.05.215.215 0 0 0-.07-.023.497.497 0 0 0-.08-.006h-.181v.326zM295.31 105.869h2.768v.823h-1.87v.755h1.766v.824h-1.767v.824h1.974v.823h-2.871v-4.05zm7.186 2.488c0 .24-.036.461-.11.663a1.459 1.459 0 0 1-.324.527 1.49 1.49 0 0 1-.538.349 2.031 2.031 0 0 1-.743.125c-.284 0-.533-.042-.748-.125a1.49 1.49 0 0 1-.538-.35 1.459 1.459 0 0 1-.325-.526 1.943 1.943 0 0 1-.11-.663v-2.488h.898v2.454c0 .125.02.242.06.348.041.107.098.2.17.278a.77.77 0 0 0 .262.183.826.826 0 0 0 .331.066.778.778 0 0 0 .587-.249.833.833 0 0 0 .17-.278.98.98 0 0 0 .06-.348v-2.454h.898v2.488zm.989-2.488h1.577c.207 0 .403.02.59.06.186.04.349.106.489.2a1 1 0 0 1 .333.377c.083.159.124.356.124.592 0 .286-.075.53-.224.73-.15.2-.369.327-.656.38l1.036 1.71h-1.077l-.851-1.618h-.443v1.618h-.898v-4.05zm.898 1.676h.529c.08 0 .166-.003.256-.009a.806.806 0 0 0 .245-.051.423.423 0 0 0 .18-.135.408.408 0 0 0 .073-.257.425.425 0 0 0-.063-.246.421.421 0 0 0-.162-.14.718.718 0 0 0-.224-.066 1.842 1.842 0 0 0-.247-.017h-.587v.92zm2.772.348c0-.324.055-.617.164-.88a1.932 1.932 0 0 1 1.154-1.099c.269-.099.562-.148.88-.148.319 0 .612.05.88.148a1.932 1.932 0 0 1 1.154 1.098c.11.264.165.557.165.881 0 .325-.055.618-.164.881a1.932 1.932 0 0 1-1.154 1.099c-.269.099-.562.148-.88.148-.319 0-.612-.05-.881-.148a1.932 1.932 0 0 1-1.154-1.098 2.275 2.275 0 0 1-.164-.882zm.932 0c0 .191.03.366.09.524a1.17 1.17 0 0 0 .656.684c.155.064.329.097.52.097.192 0 .366-.033.521-.098a1.17 1.17 0 0 0 .656-.683c.06-.158.09-.333.09-.524 0-.186-.03-.36-.09-.52a1.17 1.17 0 0 0-.656-.686 1.34 1.34 0 0 0-.52-.098 1.34 1.34 0 0 0-.521.098 1.17 1.17 0 0 0-.656.686c-.06.16-.09.334-.09.52zm4.235-2.024h1.513c.211 0 .41.019.599.057.188.038.352.104.492.197a1 1 0 0 1 .334.378c.082.158.123.357.123.597 0 .237-.038.435-.115.595a.977.977 0 0 1-.316.384 1.287 1.287 0 0 1-.478.203c-.184.04-.384.06-.599.06h-.656v1.578h-.897v-4.05zm.897 1.716h.599c.08 0 .158-.008.233-.023a.623.623 0 0 0 .201-.077.413.413 0 0 0 .144-.15.468.468 0 0 0 .055-.237.4.4 0 0 0-.256-.394.792.792 0 0 0-.25-.066 2.573 2.573 0 0 0-.265-.014h-.46v.96zm2.923-1.716h2.768v.823h-1.87v.755h1.766v.824h-1.767v.824h1.974v.823h-2.871v-4.05z"/>
+            </g>
+        </g>
+        <g fill="#9B9B9B">
+            <text font-family="Avenir-Black, Avenir" font-size="2.176" font-weight="700" letter-spacing=".045" transform="translate(48.244 188.589)">
+                <tspan x="0" y="2.653">MAX WEIGHT: 15,5 kg</tspan>
+            </text>
+            <text font-family="Avenir-Black, Avenir" font-size="2.176" font-weight="700" letter-spacing=".045" transform="translate(48.244 188.589)">
+                <tspan x="52.004" y="2.653">6CT–60A (0)</tspan>
+            </text>
+            <text font-family="Avenir-Black, Avenir" font-size="2.176" font-weight="700" letter-spacing=".045" transform="translate(81.1 188.589)">
+                <tspan x="0" y="2.653">UKRAINE</tspan>
+            </text>
+            <text font-family="Avenir-Light, Avenir" font-size=".87" font-weight="300" letter-spacing=".018" transform="translate(81.1 188.589)">
+                <tspan x="0" y="1">MADE IN</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
