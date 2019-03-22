@@ -6,7 +6,7 @@ var browserSync = require('browser-sync').create();;
 var sourcemaps = require('gulp-sourcemaps');
 var imagemin = require('gulp-imagemin');
 var rigger = require('gulp-rigger');
-var uglify = require('gulp-uglify');
+var terser = require('gulp-terser');
 var del = require('del');
 var reload = browserSync.reload;
 
@@ -73,7 +73,7 @@ function jsBuild() {
         .pipe(rigger())
         .pipe(sourcemaps.init())
         .pipe(sourcemaps.write())
-        .pipe(uglify())
+        .pipe(terser())
         .pipe(gulp.dest(path.build.js))
         .pipe(reload({
             stream: true
@@ -110,11 +110,11 @@ function fontsBuild() {
 };
 
 function watch() {
-    gulp.watch(path.watch.html, gulp.series(htmlBuild, browserSyncReload));
-    gulp.watch(path.watch.css, gulp.series(cssBuild, browserSyncReload));
-    gulp.watch(path.watch.js, gulp.series(jsBuild, browserSyncReload));
-    gulp.watch(path.watch.img, gulp.series(imgBuild, browserSyncReload));
-    gulp.watch(path.watch.fonts, gulp.series(fontsBuild, browserSyncReload));
+    gulp.watch(path.watch.html, htmlBuild);
+    gulp.watch(path.watch.css, cssBuild);
+    gulp.watch(path.watch.js, jsBuild);
+    gulp.watch(path.watch.img, imgBuild);
+    gulp.watch(path.watch.fonts, fontsBuild);
 };
 
 function clean(cb) {
