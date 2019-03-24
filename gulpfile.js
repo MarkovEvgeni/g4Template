@@ -118,7 +118,10 @@ function watch() {
 };
 
 function clean(cb) {
-    del([path.clean.build, path.clean.ts]);
+    del([
+        // path.clean.build,
+        path.clean.ts
+    ]);
     cb();
 };
 
