@@ -18,7 +18,8 @@ var path = {
         css: 'build/css/',
         img: 'build/assets/img',
         video: 'build/assets/video',
-        fonts: 'build/fonts/'
+        fonts: 'build/fonts/',
+        dataAssets: 'build/data/'
     },
     src: {
         html: 'src/*.html',
@@ -27,7 +28,8 @@ var path = {
         css: 'src/css/style.scss',
         img: 'src/assets/img/**/*.*',
         video: 'src/assets/video/**/*.*',
-        fonts: 'src/fonts/**/*.*'
+        fonts: 'src/fonts/**/*.*',
+        dataAssets: 'src/data/*.*'
     },
     watch: {
         html: 'src/**/*.html',
@@ -55,11 +57,18 @@ function webserver(cb) {
     cb();
 }
 
-function browserSyncReload(done) {
-    browsersync.reload();
-    done();
-}
+// function browserSyncReload(done) {
+//     browserSync.reload();
+//     done();
+// }
 
+function dataSourceBuild() {
+    return gulp.src(path.src.dataAssets)
+        .pipe(gulp.dest(path.build.dataAssets))
+        .pipe(reload({
+            stream: true
+        }));
+}
 function htmlBuild() {
     return gulp.src(path.src.html)
         .pipe(rigger())
@@ -110,23 +119,24 @@ function fontsBuild() {
 };
 
 function watch() {
-    gulp.watch(path.watch.html, htmlBuild);
-    gulp.watch(path.watch.css, cssBuild);
-    gulp.watch(path.watch.js, jsBuild);
-    gulp.watch(path.watch.img, imgBuild);
-    gulp.watch(path.watch.fonts, fontsBuild);
+    gulp.watch(path.watch.html, dataSourceBuild, browserSync.reload);
+    gulp.watch(path.watch.html, htmlBuild, browserSync.reload);
+    gulp.watch(path.watch.css, cssBuild, browserSync.reload);
+    gulp.watch(path.watch.js, jsBuild, browserSync.reload);
+    gulp.watch(path.watch.img, imgBuild, browserSync.reload);
+    gulp.watch(path.watch.fonts, fontsBuild, browserSync.reload);
 };
 
-function clean(cb) {
-    del([
-        // path.clean.build,
+function clean() {
+    return del([
+        path.clean.build,
         path.clean.ts
     ]);
-    cb();
 };
 
 
 exports.clean = clean;
+exports.dataSource = dataSourceBuild;
 exports.watch = watch;
 exports.html = htmlBuild;
 exports.js = jsBuild;
@@ -134,7 +144,7 @@ exports.css = cssBuild;
 exports.img = imgBuild;
 exports.fonts = fontsBuild;
 
-var build = gulp.series(clean, htmlBuild, jsBuild, cssBuild, imgBuild, fontsBuild);
+var build = gulp.series(clean, dataSourceBuild, htmlBuild, jsBuild, cssBuild, imgBuild, fontsBuild);
 gulp.task('build', build);
 
 gulp.task('default', gulp.series(build, webserver, watch));
